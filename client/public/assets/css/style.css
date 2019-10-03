@@ -92,6 +92,10 @@ body {
     float: left;
 }
 
+.page-footer {
+    background-color: #30506e;
+}
+
 #score {
     color: rgb(70, 99, 124);
     text-align: center;
